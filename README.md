@@ -16,7 +16,7 @@
 ## Installation
 
 ```
-git clone https://github.com/Pygmicaesar/dwm
+git clone https://github.com/hearthill/dwm
 cd dwm
 sudo make install
 ```
